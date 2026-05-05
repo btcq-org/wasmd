@@ -222,6 +222,8 @@ replace (
 
 	// pin version! 126854af5e6d has issues with the store so that queries fail
 	github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
+	github.com/cometbft/cometbft => github.com/btcq-org/cometbft v0.0.0-20260502040544-c16030e07020
+	github.com/cosmos/cosmos-sdk => github.com/btcq-org/cosmos-sdk v0.0.0-20260502063610-f7f082a54f9f
 )
 
 retract (
